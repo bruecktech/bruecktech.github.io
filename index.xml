@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Johannes Brück</title>
+    <link>https://brueck.tech/</link>
+    <description>Recent content on Johannes Brück</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brueck.tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introducing play-with-cdk.com</title>
-      <link>http://example.org/blog/introducing-play-with-cdk-com/</link>
+      <link>https://brueck.tech/blog/introducing-play-with-cdk-com/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/blog/introducing-play-with-cdk-com/</guid>
+      <guid>https://brueck.tech/blog/introducing-play-with-cdk-com/</guid>
       <description>If you recently read about AWS Cloud Development Kit (CDK) you might ask yourself what it does and how it works in detail. Essentially it&amp;rsquo;s a new way of describing your infrastructure on AWS. It allows you to use programming languages to model your application.
 This has a lot of benefits. For instance you can make use of construct libraries to avoid reinventing patterns.
 You can write tests against your constructs to ensure security and other requirements and catch common mistakes.</description>
