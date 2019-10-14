@@ -91,6 +91,18 @@ p.lead {
     color: #17223b;
 }
 
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float:none;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
     font-weight: 800;
     letter-spacing: 0.05rem;
@@ -192,11 +204,16 @@ section.resume-section .resume-item .resume-date {
 }
 
 a {
-    color: #17223b;
+    /* color: #17223b; */
+    color: #4f79da;
 }
 
 a:hover,
 a:focus,
 a:active {
     color: #824027;
+}
+
+.post-list{
+    list-style-type: none;
 }
